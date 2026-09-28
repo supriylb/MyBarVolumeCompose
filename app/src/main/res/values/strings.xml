@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBarVolumeCompose</string>
+    <string name="label_length">Length</string>
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="label_result">Result:</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="error_field_required">%1$s is required</string>
+</resources>
